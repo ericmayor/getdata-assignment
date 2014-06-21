@@ -7,3 +7,5 @@ After the training and test data are merged, named and identified, they are merg
 The resulting data frame is written to disk.
 
 The script the computes the mean and sd of all variables.
+
+ 
